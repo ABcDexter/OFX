@@ -4,24 +4,27 @@ README - OFX (Offline Exchange)
 
 What is it?
 -----------
-OFX is a graphical interface for popular commands on Windows and Linux-based systems.
-It allows you to execute commands and select associated options without typing them.
-The results of command execution are visible in an attached terminal windows.
-OFX helps users learn commands and options by providing relevant descriptions.
+OFX is a graphical application for buying-selling of second-hand items, inspired by OLX.in
 
 Detailed Description
 --------------------
-OFX is a graphical interface for common networking and file utilities for Linux and Windows environment
-OFX provides an environment for mastering the command line by providing descriptions of commands and 
-associated options of commonly used operating system utilities.
-The program can be used by all users, but is specifically aimed at inexperienced users.
-It allows the user to graphically specify the tool and options to be used, and outputs the result.
-It also has the ability to enter commands manually (using a keyboard).
+OFX is a graphical application for buying and selling second-hand items.
+You can register on the portal, login, add items, put them on sale, edit them.
+You can browse items added by others, search and buy.
+You receive notifications when someone buys your item, along with their contact details, so you can connect with buyers in real life.
 
 Features
 --------
-* 
-* Cross-platform software: runs on all platforms supporting Java
+* Browse recently added items
+* Edit items added by you
+* View details about items on sale, Seller details 
+* Receive relevant notifications for each item sold, with option to view Buyer's profile
+* Edit your profile
+* Select items from a diverse range of categories
+* Search for items using Basic or Advanced Search
+* Strike a deal with another person 
+* Register, login and forgot password features
+* Cross-platform software: server/client modules run on all platforms supporting Java
 
 System Requirements
 -------------------
@@ -63,14 +66,9 @@ The documentation available as of the date of this release is included in HTML f
 Changelog
 ---------
 - Revamped user interface
-- Added command execution timeout
-- Fixed indefinite command execution
-- Improved GUI responsiveness
-- Added Windows internal commands, unsupported options removed
-- Added GUI elements viz. Command Progress Bar, Status Bar, Menu Bar etc.
-- Added way to abort command execution using button
-- Added Terminal background/foreground color change
-- Added support for changing working directory
+- Added basic and advanced search feature
+- Fixed bug in refresh system of notification system
+- Added feature to view buyer's details
 
 Known Issues
 ------------
