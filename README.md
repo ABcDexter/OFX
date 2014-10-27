@@ -32,7 +32,7 @@ System Requirements
 
 Downloading
 -----------
-The latest version on OFX can be obtained by downloading from the official project page at SourceForge (link): <https://sourceforge.net/projects/OFX/>. You can download the source by cloning the project repository from the following link: <git@github.com:avaneeshrastogi/OFX.git>.
+The latest version on OFX can be obtained by downloading from the official project page at SourceForge (link): <https://sourceforge.net/projects/OFX/>. You can download the source by cloning the project repository from the following link: git@github.com:avaneeshrastogi/OFX.git.
 
 Installation
 ------------
